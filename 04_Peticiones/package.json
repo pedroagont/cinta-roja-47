@@ -1,0 +1,20 @@
+{
+  "name": "04_peticiones",
+  "version": "1.0.0",
+  "description": "Introducción a NPM y request",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "introduccion",
+    "npm",
+    "node",
+    "request"
+  ],
+  "author": "Pedro A. González",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
