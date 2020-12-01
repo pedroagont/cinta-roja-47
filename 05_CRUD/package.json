@@ -1,0 +1,17 @@
+{
+  "name": "05_crud",
+  "version": "1.0.0",
+  "description": "CRUD JS",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Pedro A. González",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
